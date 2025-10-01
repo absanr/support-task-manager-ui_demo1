@@ -228,8 +228,7 @@ El archivo `application.properties` contiene:
 3. **Controladores MVC**: Controladores con rutas en español
 4. **Plantillas Thymeleaf**: Conversión de HTML estático a dinámico
 5. **Layout reutilizable**: Fragmentos Thymeleaf para navbar/sidebar/footer
-6. **Sin emojis**: Reemplazo por marcadores textuales `[HOME]`, `[TICKET]`, etc.
-7. **Todo en español**: Código, comentarios, rutas y mensajes
+6. **Todo en español**: Código, comentarios, rutas y mensajes
 
 ---
 
@@ -344,7 +343,6 @@ El archivo `application.properties` contiene:
 - 📚 **JavaDoc completo**: Documentación clara en español
 - 🧹 **Código limpio**: Principios SOLID y Clean Code
 - 🏷️ **Lombok**: Reducción de boilerplate con anotaciones
-- 🎯 **Marcadores textuales**: `[HOME]`, `[TICKET]`, `[SERVICE]` en lugar de emojis
 
 ### **Estilo Frontend**
 - 📱 **Mobile-first**: Responsive design desde móvil hacia desktop
