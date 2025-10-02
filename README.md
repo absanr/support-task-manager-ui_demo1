@@ -108,9 +108,7 @@
 │   │       └── 📱 sidebar-manager.js       → Gestor sidebar colapsible
 │   └── ⚙️ application.properties           → Configuración aplicación
 ├── 📄 pom.xml                              → Dependencias Maven
-├── 📖 README.md                            → Documentación principal
-├── 📋 ANALISIS_FUNCIONALIDAD.md           → Análisis técnico detallado
-└── 🎨 UI_TOUCH_IMPROVEMENTS.md            → Mejoras de UX implementadas
+└── 📖 README.md                            → Documentación principal
 ```
 
 ## [PATTERN] Patrón arquitectónico
@@ -414,7 +412,7 @@ spring.thymeleaf.cache=false
 | **Arquitectura** | MVC + Sistema de Diseño Moderno |
 | **Estado** | ✅ Completo y Funcional |
 | **Licencia** | 📚 Proyecto Educativo |
-| **Desarrollado por** | Grupo de Desarrollo - Curso Marcos de Desarrollo Web |
+| **Desarrollado por** | Grupo de Desarrollo [group 1] - Curso Marcos de Desarrollo Web |
 
 ---
 
@@ -444,10 +442,7 @@ spring.thymeleaf.cache=false
 ## 🆘 **Soporte y Documentación**
 
 ### **Documentación Técnica**
-- 📋 [`ANALISIS_FUNCIONALIDAD.md`](./ANALISIS_FUNCIONALIDAD.md) - Análisis detallado de funcionalidades
-- 🎨 [`UI_TOUCH_IMPROVEMENTS.md`](./UI_TOUCH_IMPROVEMENTS.md) - Mejoras de UX implementadas
-- 🧪 [`TESTING_THEME.md`](./TESTING_THEME.md) - Pruebas del sistema de temas
-- 🔧 [`THEME_FIXES.md`](./THEME_FIXES.md) - Correcciones de modo oscuro
+- README.md
 
 ### **Enlaces Útiles**
 - 📖 [Spring Boot Documentation](https://spring.io/projects/spring-boot)
@@ -486,4 +481,17 @@ spring.thymeleaf.cache=false
 **✨ Proyecto exitosamente migrado y modernizado desde frontend estático a aplicación Spring Boot profesional con experiencia Kanban inmersiva.**
 
 ---
+### 👥 Contribuidores
+
+<p align="left">
+  <a href="https://github.com/absanr" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/88864000?v=4" width="60" alt="roger" title="roger" />
+  </a>
+  <a href="https://github.com/linochamorro" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139192957?v=4" width="60" alt="linochamorro" title="linochamorro" />
+  </a>
+</p>
+
+---
 *Última actualización: Octubre 2025* 🗓️
+
